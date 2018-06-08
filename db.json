@@ -1,14 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "incidents": [
+    { "id": 1, "creationtime": "Post 1", description: "Post 1" },
+    { "id": 2, "creationtime": "Post 2", description: "Post 2" },
+    { "id": 3, "creationtime": "Post 3", description: "Post 3" },
+    { "id": 4, "creationtime": "Post 4", description: "Post 4" },
+    { "id": 5, "creationtime": "Post 5", description: "Post 5" },
+    { "id": 6, "creationtime": "Post 6", description: "Post 6" }
+  ]  
 }
