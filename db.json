@@ -1,6 +1,6 @@
 {
   "incidents": [
-    { "id": 1, "creationtime": "1", "description": "Incident One" },
+    { "id": 1, "creationtime": "06/08/2018", "description": "Incident One" },
     { "id": 2, "creationtime": "1", "description": "Incident two" },
     { "id": 3, "creationtime": "1", "description": "Incident three" },
     { "id": 4, "creationtime": "1", "description": "Incident four" },
