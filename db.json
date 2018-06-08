@@ -1,10 +1,10 @@
 {
   "incidents": [
-    { "id": 1, "creationtime": new Date().toLocaleTimeString(), "description": "Incident One" },
-    { "id": 2, "creationtime": new Date().toLocaleTimeString(), "description": "Incident two" },
-    { "id": 3, "creationtime": new Date().toLocaleTimeString(), "description": "Incident three" },
-    { "id": 4, "creationtime": new Date().toLocaleTimeString(), "description": "Incident four" },
-    { "id": 5, "creationtime": new Date().toLocaleTimeString(), "description": "Incident five" },
-    { "id": 6, "creationtime": new Date().toLocaleTimeString(), "description": "Incident six" }
+    { "id": 1, "creationtime": "new Date().toLocaleTimeString()", "description": "Incident One" },
+    { "id": 2, "creationtime": "new Date().toLocaleTimeString()", "description": "Incident two" },
+    { "id": 3, "creationtime": "new Date().toLocaleTimeString()", "description": "Incident three" },
+    { "id": 4, "creationtime": "new Date().toLocaleTimeString()", "description": "Incident four" },
+    { "id": 5, "creationtime": "new Date().toLocaleTimeString()", "description": "Incident five" },
+    { "id": 6, "creationtime": "new Date().toLocaleTimeString()", "description": "Incident six" }
   ]  
 }
